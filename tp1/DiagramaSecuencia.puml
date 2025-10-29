@@ -1,0 +1,99 @@
+@startuml
+actor Usuario as U
+
+participant Main
+participant SistemaAlmacenamiento
+participant RegistrodePedidos
+participant Preparacion
+participant Despacho
+participant Entrega
+participant VerificacionFinal
+participant Pedido
+participant Casillero
+
+U -> Main: main(String[] args)
+activate Main
+Main -> SistemaAlmacenamiento: SistemaAlmacenamiento()
+Main -> RegistrodePedidos: RegistrodePedidos()
+Main -> Preparacion: Preparacion(SistemaAlmacenamiento, RegistrodePedidos)
+Main -> Despacho: Despacho(SistemaAlmacenamiento, RegistrodePedidos)
+Main -> Entrega: Entrega(RegistrodePedidos)
+Main -> VerificacionFinal: VerificacionFinal(RegistrodePedidos)
+
+Main -> Main: Crear hilos y start()
+deactivate Main
+
+par Procesos en paralelo
+
+    group Preparar pedidos
+        loop Mientras no se cumpla el total
+            Preparacion -> SistemaAlmacenamiento: ocuparCasillero()
+            activate SistemaAlmacenamiento
+            critical "lockCasillero"
+                SistemaAlmacenamiento -> Casillero: ocupar()
+            end critical
+            deactivate SistemaAlmacenamiento
+
+            critical "lockPreparacion"
+                Preparacion -> RegistrodePedidos: addListaPreparacion(Pedido)
+            end critical
+        end
+    end group
+
+    group Despachar pedidos
+        loop Mientras no se cumpla el total
+            Despacho -> RegistrodePedidos: getListaPreparacion()
+            activate RegistrodePedidos
+            critical "lockPreparacion"
+                RegistrodePedidos -> RegistrodePedidos: Remover Pedido
+            end critical
+            deactivate RegistrodePedidos
+
+            Despacho -> SistemaAlmacenamiento: desocuparCasillero(Pedido)
+            activate SistemaAlmacenamiento
+            critical "lockCasillero"
+                SistemaAlmacenamiento -> Casillero: desocupar()
+                SistemaAlmacenamiento -> Preparacion: signalAll()
+            end critical
+            deactivate SistemaAlmacenamiento
+
+            critical "lockTransito"
+                Despacho -> RegistrodePedidos: addListaTransito(Pedido)
+            end critical
+        end
+    end group
+
+    group Entregar pedidos
+        loop Mientras no se cumpla el total
+            Entrega -> RegistrodePedidos: getListaTransito()
+            activate RegistrodePedidos
+            critical "lockTransito"
+                RegistrodePedidos -> RegistrodePedidos: Remover Pedido
+            end critical
+            deactivate RegistrodePedidos
+
+            critical "lockEntregados"
+                Entrega -> RegistrodePedidos: addListaEntregados(Pedido)
+            end critical
+        end
+    end group
+
+    group Verificar pedidos
+        loop Mientras no se cumpla el total
+            VerificacionFinal -> RegistrodePedidos: getListaEntregados()
+            activate RegistrodePedidos
+            critical "lockEntregados"
+                RegistrodePedidos -> RegistrodePedidos: Remover Pedido
+            end critical
+            deactivate RegistrodePedidos
+
+            critical "lockVerificados"
+                VerificacionFinal -> RegistrodePedidos: addListaVerificados(Pedido)
+            end critical
+        end
+    end group
+
+end par
+
+Main -> RegistrodePedidos: Imprimir estadísticas
+@enduml

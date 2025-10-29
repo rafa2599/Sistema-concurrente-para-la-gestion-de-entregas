@@ -1,0 +1,3 @@
+public enum EstadoPedido {
+    PREPARACION, TRANSITO, ENTREGADO, FALLIDO, VERIFICADO
+}

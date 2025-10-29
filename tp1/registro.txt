@@ -1,0 +1,130 @@
+[006 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 0 | Verificados: 0
+[386 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 0 | Verificados: 4
+[587 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 1 | Verificados: 7
+[787 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 4 | Verificados: 9
+[988 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 6 | Verificados: 11
+[1188 ms] Preparación: 4 | Tránsito: 1 | Entregados: 0 | Fallidos: 7 | Verificados: 13
+[1388 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 11 | Verificados: 15
+[1589 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 11 | Verificados: 19
+[1789 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 13 | Verificados: 22
+[1991 ms] Preparación: 2 | Tránsito: 1 | Entregados: 0 | Fallidos: 13 | Verificados: 25
+[2192 ms] Preparación: 3 | Tránsito: 1 | Entregados: 0 | Fallidos: 16 | Verificados: 28
+[2392 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 18 | Verificados: 31
+[2592 ms] Preparación: 2 | Tránsito: 0 | Entregados: 1 | Fallidos: 20 | Verificados: 33
+[2793 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 22 | Verificados: 36
+[2994 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 26 | Verificados: 36
+[3194 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 26 | Verificados: 40
+[3395 ms] Preparación: 2 | Tránsito: 1 | Entregados: 1 | Fallidos: 27 | Verificados: 43
+[3596 ms] Preparación: 3 | Tránsito: 1 | Entregados: 0 | Fallidos: 29 | Verificados: 46
+[3796 ms] Preparación: 3 | Tránsito: 1 | Entregados: 0 | Fallidos: 30 | Verificados: 49
+[3997 ms] Preparación: 3 | Tránsito: 0 | Entregados: 1 | Fallidos: 30 | Verificados: 54
+[4197 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 31 | Verificados: 58
+[4398 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 34 | Verificados: 60
+[4599 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 34 | Verificados: 64
+[4799 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 36 | Verificados: 66
+[5000 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 38 | Verificados: 68
+[5201 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 39 | Verificados: 72
+[5401 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 42 | Verificados: 73
+[5602 ms] Preparación: 1 | Tránsito: 1 | Entregados: 0 | Fallidos: 43 | Verificados: 77
+[5802 ms] Preparación: 1 | Tránsito: 0 | Entregados: 0 | Fallidos: 44 | Verificados: 81
+[6003 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 44 | Verificados: 85
+[6203 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 46 | Verificados: 87
+[6404 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 46 | Verificados: 91
+[6604 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 46 | Verificados: 95
+[6805 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 48 | Verificados: 98
+[7006 ms] Preparación: 4 | Tránsito: 0 | Entregados: 1 | Fallidos: 49 | Verificados: 100
+[7206 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 49 | Verificados: 105
+[7407 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 51 | Verificados: 107
+[7608 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 53 | Verificados: 110
+[7808 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 54 | Verificados: 113
+[8009 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 57 | Verificados: 115
+[8210 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 58 | Verificados: 118
+[8410 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 60 | Verificados: 121
+[8611 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 60 | Verificados: 125
+[8812 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 62 | Verificados: 127
+[9012 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 64 | Verificados: 130
+[9213 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 65 | Verificados: 133
+[9414 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 66 | Verificados: 136
+[9615 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 67 | Verificados: 139
+[9816 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 68 | Verificados: 143
+[10017 ms] Preparación: 3 | Tránsito: 1 | Entregados: 0 | Fallidos: 68 | Verificados: 147
+[10217 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 71 | Verificados: 149
+[10417 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 73 | Verificados: 151
+[10618 ms] Preparación: 2 | Tránsito: 1 | Entregados: 1 | Fallidos: 73 | Verificados: 155
+[10818 ms] Preparación: 2 | Tránsito: 0 | Entregados: 2 | Fallidos: 73 | Verificados: 159
+[11018 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 75 | Verificados: 164
+[11218 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 76 | Verificados: 167
+[11419 ms] Preparación: 2 | Tránsito: 0 | Entregados: 1 | Fallidos: 77 | Verificados: 170
+[11619 ms] Preparación: 1 | Tránsito: 0 | Entregados: 2 | Fallidos: 78 | Verificados: 173
+[11820 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 80 | Verificados: 177
+[12021 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 83 | Verificados: 179
+[12221 ms] Preparación: 0 | Tránsito: 1 | Entregados: 0 | Fallidos: 84 | Verificados: 182
+[12422 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 84 | Verificados: 186
+[12622 ms] Preparación: 0 | Tránsito: 1 | Entregados: 0 | Fallidos: 85 | Verificados: 189
+[12823 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 85 | Verificados: 193
+[13024 ms] Preparación: 1 | Tránsito: 1 | Entregados: 0 | Fallidos: 85 | Verificados: 197
+[13224 ms] Preparación: 1 | Tránsito: 0 | Entregados: 0 | Fallidos: 86 | Verificados: 200
+[13425 ms] Preparación: 1 | Tránsito: 0 | Entregados: 0 | Fallidos: 88 | Verificados: 202
+[13625 ms] Preparación: 1 | Tránsito: 0 | Entregados: 0 | Fallidos: 90 | Verificados: 205
+[13826 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 91 | Verificados: 209
+[14026 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 92 | Verificados: 212
+[14230 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 92 | Verificados: 216
+[14430 ms] Preparación: 1 | Tránsito: 1 | Entregados: 0 | Fallidos: 92 | Verificados: 220
+[14631 ms] Preparación: 1 | Tránsito: 0 | Entregados: 0 | Fallidos: 95 | Verificados: 222
+[14831 ms] Preparación: 1 | Tránsito: 0 | Entregados: 1 | Fallidos: 96 | Verificados: 225
+[15032 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 98 | Verificados: 228
+[15233 ms] Preparación: 2 | Tránsito: 0 | Entregados: 0 | Fallidos: 101 | Verificados: 229
+[15433 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 102 | Verificados: 233
+[15633 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 105 | Verificados: 235
+[15834 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 107 | Verificados: 237
+[16034 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 108 | Verificados: 239
+[16235 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 110 | Verificados: 242
+[16435 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 111 | Verificados: 246
+[16635 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 113 | Verificados: 248
+[16836 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 114 | Verificados: 252
+[17036 ms] Preparación: 2 | Tránsito: 1 | Entregados: 0 | Fallidos: 114 | Verificados: 256
+[17237 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 116 | Verificados: 259
+[17437 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 116 | Verificados: 263
+[17638 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 117 | Verificados: 266
+[17839 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 118 | Verificados: 269
+[18039 ms] Preparación: 3 | Tránsito: 0 | Entregados: 1 | Fallidos: 119 | Verificados: 272
+[18240 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 121 | Verificados: 276
+[18441 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 123 | Verificados: 278
+[18642 ms] Preparación: 6 | Tránsito: 0 | Entregados: 0 | Fallidos: 124 | Verificados: 281
+[18842 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 125 | Verificados: 285
+[19043 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 128 | Verificados: 287
+[19244 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 128 | Verificados: 290
+[19444 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 129 | Verificados: 294
+[19645 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 131 | Verificados: 296
+[19845 ms] Preparación: 4 | Tránsito: 0 | Entregados: 1 | Fallidos: 131 | Verificados: 300
+[20045 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 131 | Verificados: 304
+[20246 ms] Preparación: 5 | Tránsito: 0 | Entregados: 1 | Fallidos: 131 | Verificados: 308
+[20446 ms] Preparación: 4 | Tránsito: 0 | Entregados: 0 | Fallidos: 131 | Verificados: 313
+[20647 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 134 | Verificados: 315
+[20847 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 135 | Verificados: 318
+[21047 ms] Preparación: 6 | Tránsito: 0 | Entregados: 0 | Fallidos: 136 | Verificados: 321
+[21248 ms] Preparación: 3 | Tránsito: 0 | Entregados: 0 | Fallidos: 138 | Verificados: 325
+[21448 ms] Preparación: 5 | Tránsito: 0 | Entregados: 0 | Fallidos: 139 | Verificados: 328
+[21648 ms] Preparación: 5 | Tránsito: 1 | Entregados: 0 | Fallidos: 140 | Verificados: 330
+[21849 ms] Preparación: 4 | Tránsito: 2 | Entregados: 0 | Fallidos: 141 | Verificados: 333
+[22050 ms] Preparación: 4 | Tránsito: 1 | Entregados: 1 | Fallidos: 141 | Verificados: 337
+[22250 ms] Preparación: 6 | Tránsito: 0 | Entregados: 0 | Fallidos: 142 | Verificados: 342
+[22451 ms] Preparación: 5 | Tránsito: 1 | Entregados: 0 | Fallidos: 143 | Verificados: 345
+[22652 ms] Preparación: 4 | Tránsito: 0 | Entregados: 1 | Fallidos: 144 | Verificados: 349
+[22852 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 146 | Verificados: 354
+[23053 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 146 | Verificados: 354
+[23254 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 146 | Verificados: 354
+[23454 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 146 | Verificados: 354
+[23655 ms] Preparación: 0 | Tránsito: 0 | Entregados: 0 | Fallidos: 146 | Verificados: 354
+
+[23655 ms]  Casilleros fallidos: 85 |  Casilleros funcionales 115
+   #   #   4   4   4   #   2   1   #   3   #   #   4   #   2   #   #   #   6   #
+   1   3   2   4   #   4   #   1   #   4   3   3   #   0   #   2   3   5   #   5
+   2   1   5   1   2   #   #   #   #   #   #   #   #   5   3   1   1   2   5   1
+   5   #   1   #   1   #   #   5   1   3   #   2   2   #   1   3   #   2   2   #
+   #   5   #   #   #   6   4   2   #   7   #   4   #   1   #   2   4   1   #   #
+   1   3   2   5   #   #   3   #   #   3   5   #   3   #   4   #   0   3   3   2
+   2   #   #   2   #   4   2   #   5   3   0   #   1   3   #   5   2   #   2   6
+   #   3   3   1   #   2   #   #   #   3   #   3   6   2   3   #   #   #   #   0
+   #   #   3   3   1   #   5   1   #   1   3   3   #   4   #   #   #   1   #   #
+   1   1   #   3   4   #   2   #   #   #   #   4   4   #   1   1   3   #   6   6
